@@ -15,11 +15,6 @@ path = 'contracts/production-monitoring.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.project-verification]
-path = 'contracts/project-verification.clar'
-clarity_version = 2
-epoch = 2.5
-
 [contracts.revenue-distribution]
 path = 'contracts/revenue-distribution.clar'
 clarity_version = 2
